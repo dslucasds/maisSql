@@ -66,6 +66,10 @@ public class Cliente {
         this.celcli = celcli;
     }
 
+    public String getNomCli() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     
     
 }
